@@ -4,7 +4,7 @@ public class AdamVedernikov
 	{	
 		for(int i = 1; i <= 10; i++)
 		{
-			System.out.println("NewThree "+i);
+			System.out.println("NewFour "+i);
 		}
 	}
 }
